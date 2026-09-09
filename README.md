@@ -40,8 +40,6 @@ Not every car has a matching sale row — approximately 28% of inventory remains
 - Conditional aggregation — `SUM(CASE WHEN ... THEN ... ELSE 0 END)`
 - KPI calculations — sell-through rate, gross margin %, profit per unit
 - Multi-column `GROUP BY` — revenue by branch AND month simultaneously
-- Subqueries — filtering against aggregated values
-- Window functions — `RANK() OVER (PARTITION BY ...)`
 
 ---
 
